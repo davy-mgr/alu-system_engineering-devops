@@ -1,0 +1,1 @@
+This repository showcases the implementation and configuration of HAProxy for efficient load balancing in web applications. HAProxy, a powerful and flexible open-source software, plays a pivotal role in distributing incoming traffic across multiple servers, ensuring optimal performance, high availability, and reliability.
